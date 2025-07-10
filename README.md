@@ -20,3 +20,8 @@ A conversational AI chatbot that can answer questions about content in uploaded 
 3. Creates vector embeddings for semantic search
 4. Finds relevant document sections when you ask a question
 5. Generates answers using a large language model
+
+## Quick Run
+1. Install deps  
+2. Edit API key in `chatbot.py`  
+3. `streamlit run chatbot.py`
