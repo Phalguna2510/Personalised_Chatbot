@@ -5,7 +5,6 @@ PDF Chatbot with AI - Upload PDFs and ask questions. Powered by LangChain, Toget
 
 A conversational AI chatbot that can answer questions about content in uploaded PDF documents.
 
-![Chatbot Screenshot](screenshot.png) <!-- Add your screenshot here -->
 
 ## Features
 
