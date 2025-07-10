@@ -7,7 +7,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain_together import ChatTogether
 
 
-TOGETHER_API_KEY = "tgp_v1_V_BuUjgqMN8EH-JEMSnN2faNYXxuWvU87GRF0TYPPL8" #Pass your key here
+TOGETHER_API_KEY = "YourKeyHere" #Pass your key here
 
 
 #Upload PDF files
